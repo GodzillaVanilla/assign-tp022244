@@ -1,0 +1,9 @@
+C:\DDAC\DDAC-TP022244
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=DDAC-TP022244
+--content-root=C:\DDAC\DDAC-TP022244
+--file=C:\DDAC\DDAC-TP022244\Views\Home\Index.cshtml
+--file=C:\DDAC\DDAC-TP022244\Views\Shared\Error.cshtml
+--file=C:\DDAC\DDAC-TP022244\Views\Shared\_Layout.cshtml
+--file=C:\DDAC\DDAC-TP022244\Views\_ViewImports.cshtml
+--file=C:\DDAC\DDAC-TP022244\Views\_ViewStart.cshtml

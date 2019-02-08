@@ -1,0 +1,12 @@
+C:\DDAC\DDAC-TP022244\bin\Release\netcoreapp2.0\DDAC-TP022244.deps.json
+C:\DDAC\DDAC-TP022244\bin\Release\netcoreapp2.0\DDAC-TP022244.runtimeconfig.json
+C:\DDAC\DDAC-TP022244\bin\Release\netcoreapp2.0\DDAC-TP022244.runtimeconfig.dev.json
+C:\DDAC\DDAC-TP022244\bin\Release\netcoreapp2.0\DDAC-TP022244.dll
+C:\DDAC\DDAC-TP022244\bin\Release\netcoreapp2.0\DDAC-TP022244.pdb
+C:\DDAC\DDAC-TP022244\obj\Release\netcoreapp2.0\DDAC-TP022244.csprojAssemblyReference.cache
+C:\DDAC\DDAC-TP022244\obj\Release\netcoreapp2.0\DDAC-TP022244.csproj.CoreCompileInputs.cache
+C:\DDAC\DDAC-TP022244\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\DDAC\DDAC-TP022244\obj\Release\netcoreapp2.0\DDAC-TP022244.AssemblyInfoInputs.cache
+C:\DDAC\DDAC-TP022244\obj\Release\netcoreapp2.0\DDAC-TP022244.AssemblyInfo.cs
+C:\DDAC\DDAC-TP022244\obj\Release\netcoreapp2.0\DDAC-TP022244.dll
+C:\DDAC\DDAC-TP022244\obj\Release\netcoreapp2.0\DDAC-TP022244.pdb
